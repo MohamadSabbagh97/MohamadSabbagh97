@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning and collecting Coursera Certifications
 - 💞️ I’m looking to collaborate on Full stack development 
 - 📫 How to reach me: Whatsapp 00963932539433
-- - 😄 Pronouns: 
 - ⚡ Fun fact: I Can work 19 hours per day 😘😊😂👀
 
 <!---
