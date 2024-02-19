@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and collecting Coursera Certifications
 - 💞️ I’m looking to collaborate on Full stack development 
 - 📫 How to reach me: Whatsapp 00963932539433
-- ⚡ Fun fact: I Can work 19 hours per day 😘😊😂👀
+- ⚡ Fun fact: I Can work from home  😘😊😂👀
 
 <!---
 MohamadSabbagh97/MohamadSabbagh97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
